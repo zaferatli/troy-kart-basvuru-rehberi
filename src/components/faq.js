@@ -7,7 +7,13 @@ export default function FAQ(props) {
         bilgileri düzeltmek için bizimle iletişime geçebilirsiniz.
       </p>
       <p class="text-md font-semibold text-gray-400 mb-8 text-center">
-        Bu proje açık kaynak olarak gönüllü olarak geliştirilmiştir. <br></br>
+        <a
+          href="https://github.com/zaferatli/troy-kart-basvuru-rehberi"
+          target="_blank"
+        >
+          Bu proje açık kaynak olarak gönüllü olarak geliştirilmiştir.
+        </a>
+        <br></br>
         <br></br>
         İletişim: opencodeplus@gmail.com
       </p>
