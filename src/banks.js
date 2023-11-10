@@ -16,7 +16,6 @@ export const bankArray = [
             onPress:
               "https://imagedelivery.net/yl5R5Esago2X_W93mb7gzA/930b1185-383c-49fb-8b07-cd18ab7aa200/public",
             comment: "Resim için tıklayın",
-            shareCount: 0,
           },
           {
             id: 2,
@@ -26,7 +25,6 @@ export const bankArray = [
             onPress:
               "https://imagedelivery.net/yl5R5Esago2X_W93mb7gzA/c221d225-821c-4a3d-ea85-5731bea4f700/public",
             comment: "Resim için tıklayın",
-            shareCount: 0,
           },
           {
             id: 2,
@@ -36,7 +34,6 @@ export const bankArray = [
             onPress:
               "https://imagedelivery.net/yl5R5Esago2X_W93mb7gzA/d6ef88b6-ff74-466b-abdb-2b8067d1a600/public",
             comment: "Resim için tıklayın",
-            shareCount: 0,
           },
         ],
       },
@@ -48,7 +45,6 @@ export const bankArray = [
             title: "(0212) 444 25 25 arayarak",
             date: "1. Adım",
             comment: "Aramak için tıklayın",
-            shareCount: 0,
             onPress: "tel:02124442525",
           },
         ],
@@ -70,7 +66,6 @@ export const bankArray = [
             date: "1. Adım",
             comment: "Aramak için tıklayın",
             onPress: "tel:4440055",
-            shareCount: 0,
           },
         ],
       },
@@ -91,7 +86,6 @@ export const bankArray = [
             date: "1. Adım",
             comment: "Aramak için tıklayın",
             onPress: "tel:08502225550",
-            shareCount: 0,
           },
         ],
       },
@@ -113,7 +107,6 @@ export const bankArray = [
             comment: "Resimi görmek için tıklayın",
             onPress:
               "https://imagedelivery.net/yl5R5Esago2X_W93mb7gzA/75781e8e-e804-417e-c0a1-2e8011ec8100/public",
-            shareCount: 0,
           },
           {
             id: 2,
@@ -122,7 +115,6 @@ export const bankArray = [
             comment: "Resimi görmek için tıklayın",
             onPress:
               "https://imagedelivery.net/yl5R5Esago2X_W93mb7gzA/a8e33c73-d69c-4ad8-a2af-4b43644c6800/public",
-            shareCount: 0,
           },
           {
             id: 3,
@@ -131,7 +123,6 @@ export const bankArray = [
             comment: "Resimi görmek için tıklayın",
             onPress:
               "https://imagedelivery.net/yl5R5Esago2X_W93mb7gzA/5a2a318b-df4c-4c72-cd92-97094a64a000/public",
-            shareCount: 0,
           },
         ],
       },
@@ -144,7 +135,6 @@ export const bankArray = [
             date: "1. Adım",
             comment: "Aramak için tıklayın",
             onPress: "tel:08502220900",
-            shareCount: 0,
           },
         ],
       },
@@ -165,7 +155,6 @@ export const bankArray = [
             date: "1. Adım",
             comment: "Aramak için tıklayın",
             onPress: "tel:4440333",
-            shareCount: 0,
           },
         ],
       },
@@ -186,7 +175,6 @@ export const bankArray = [
             date: "1. Adım",
             comment: "Aramak için tıklayın",
             onPress: "tel:08502220400",
-            shareCount: 0,
           },
         ],
       },
@@ -208,7 +196,6 @@ export const bankArray = [
             comment: "Resimi görmek için tıklayın",
             onPress:
               "https://imagedelivery.net/yl5R5Esago2X_W93mb7gzA/86bf8462-0562-4625-8831-642cc271de00/public",
-            shareCount: 0,
           },
           {
             id: 2,
@@ -217,7 +204,6 @@ export const bankArray = [
             comment: "Resimi görmek için tıklayın",
             onPress:
               "https://imagedelivery.net/yl5R5Esago2X_W93mb7gzA/86bf8462-0562-4625-8831-642cc271de00/public",
-            shareCount: 0,
           },
           {
             id: 3,
@@ -226,7 +212,6 @@ export const bankArray = [
             comment: "Resimi görmek için tıklayın",
             onPress:
               "https://imagedelivery.net/yl5R5Esago2X_W93mb7gzA/70dfa4c7-a5fd-42c7-8a12-64af444ece00/public",
-            shareCount: 0,
           },
         ],
       },
@@ -239,7 +224,6 @@ export const bankArray = [
             date: "1. Adım",
             comment: "Aramak için tıklayın",
             onPress: "tel:4440123",
-            shareCount: 0,
           },
         ],
       },
@@ -260,7 +244,6 @@ export const bankArray = [
             date: "1. Adım",
             comment: "Aramak için tıklayın",
             onPress: "tel:08502227878",
-            shareCount: 0,
           },
         ],
       },
@@ -281,7 +264,6 @@ export const bankArray = [
             date: "1. Adım",
             comment: "Aramak için tıklayın",
             onPress: "tel:08502000666",
-            shareCount: 0,
           },
         ],
       },
@@ -302,7 +284,6 @@ export const bankArray = [
             date: "1. Adım",
             comment: "Aramak için tıklayın",
             onPress: "tel:08502222244 ",
-            shareCount: 0,
           },
         ],
       },
@@ -323,7 +304,6 @@ export const bankArray = [
             date: "1. Adım",
             comment: "Aramak için tıklayın",
             onPress: "tel:08507240724 ",
-            shareCount: 0,
           },
         ],
       },
@@ -345,7 +325,6 @@ export const bankArray = [
             comment: "Resimi görmek için tıklayın",
             onPress:
               "https://imagedelivery.net/yl5R5Esago2X_W93mb7gzA/89fe9496-b27b-4e4c-4812-a528b350d300/public",
-            shareCount: 0,
           },
           {
             id: 2,
@@ -354,7 +333,6 @@ export const bankArray = [
             comment: "Resimi görmek için tıklayın",
             onPress:
               "https://imagedelivery.net/yl5R5Esago2X_W93mb7gzA/91cf570a-a58c-4138-c530-425a3d0c0700/public",
-            shareCount: 0,
           },
           {
             id: 3,
@@ -363,7 +341,6 @@ export const bankArray = [
             comment: "Resimi görmek için tıklayın",
             onPress:
               "https://imagedelivery.net/yl5R5Esago2X_W93mb7gzA/69dd6eb7-f1cd-4f37-9a72-7d89e7dcac00/public",
-            shareCount: 0,
           },
           {
             id: 4,
@@ -372,7 +349,6 @@ export const bankArray = [
             comment: "Resimi görmek için tıklayın",
             onPress:
               "https://imagedelivery.net/yl5R5Esago2X_W93mb7gzA/15865756-5633-43f3-7b90-db746eab9300/public",
-            shareCount: 0,
           },
         ],
       },
@@ -385,7 +361,6 @@ export const bankArray = [
             date: "1. Adım",
             comment: "Aramak için tıklayın",
             onPress: "tel:08502220724",
-            shareCount: 0,
           },
         ],
       },
@@ -406,7 +381,6 @@ export const bankArray = [
             date: "1. Adım",
             comment: "Aramak için tıklayın",
             onPress: "tel:4440444 ",
-            shareCount: 0,
           },
         ],
       },
@@ -427,7 +401,6 @@ export const bankArray = [
             date: "1. Adım",
             comment: "Aramak için tıklayın",
             onPress: "tel:4440000 ",
-            shareCount: 0,
           },
         ],
       },
