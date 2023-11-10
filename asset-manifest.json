@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/troy-kart-basvuru-rehberi/static/css/main.62bf17d7.css",
+    "main.js": "/troy-kart-basvuru-rehberi/static/js/main.03fdbbc1.js",
+    "static/js/787.e9160761.chunk.js": "/troy-kart-basvuru-rehberi/static/js/787.e9160761.chunk.js",
+    "index.html": "/troy-kart-basvuru-rehberi/index.html",
+    "main.62bf17d7.css.map": "/troy-kart-basvuru-rehberi/static/css/main.62bf17d7.css.map",
+    "main.03fdbbc1.js.map": "/troy-kart-basvuru-rehberi/static/js/main.03fdbbc1.js.map",
+    "787.e9160761.chunk.js.map": "/troy-kart-basvuru-rehberi/static/js/787.e9160761.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62bf17d7.css",
+    "static/js/main.03fdbbc1.js"
+  ]
+}
